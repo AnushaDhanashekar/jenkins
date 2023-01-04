@@ -13,7 +13,7 @@ public class JenkinsApplication {
 		logger.info("Application started ....");
 	}
 	public static void main(String[] args) {
-		logger.info("Application executed ....")
+		logger.info("Application executed ....");
 		SpringApplication.run(JenkinsApplication.class, args);
 	}
 
